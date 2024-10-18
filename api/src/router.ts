@@ -1,6 +1,6 @@
 import express, { Request, Response } from 'express';
 import { Consultas } from './Consultas';
-import { Auth } from './util/Auth';
+import { Auth } from './util/Auth'
 
 const router = express.Router();
 
